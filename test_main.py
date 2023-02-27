@@ -1,4 +1,4 @@
 from main import *
 
-def Test_add():
+def test_AddNumbers():
     assert AddNumbers(20,30)== 50
