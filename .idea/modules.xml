@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../JenkinsDemo/.idea/PythonApp.iml" filepath="$PROJECT_DIR$/../JenkinsDemo/.idea/PythonApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JenkinsDemo/.idea/JenkinsDemo.iml" filepath="$PROJECT_DIR$/../JenkinsDemo/.idea/JenkinsDemo.iml" />
     </modules>
   </component>
 </project>
